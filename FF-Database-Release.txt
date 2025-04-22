@@ -1,0 +1,4 @@
+Here is a split up for both Training and validation phase FF-Database
+
+https://drive.google.com/drive/folders/1OxOQd-6yD7suoIBiVCXTtZkZbkeRvuPv?usp=drive_link   - Train 
+https://drive.google.com/drive/folders/1KLSerfMv8fbRRDgJTGmaokVTKJxEnOh2?usp=drive_link   - Validation 
